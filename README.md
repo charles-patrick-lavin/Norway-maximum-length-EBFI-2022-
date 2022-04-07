@@ -9,3 +9,7 @@ R script for analyses: Lavin_et_al_2022_b_EBFI.R
 (Code for source functions "AssessRelativeImportancePredictors.R",
 "CustomizedBarPlot.R" and "ModelEvaluation.R" are available upon request).
 
+Data and script for calculating species' temperature ranges,
+derived from AquaMaps (https://www.aquamaps.org/) can be found in
+"Norway_Aquamaps_Lavin_et_al_2022_EBFI" zip folder
+
